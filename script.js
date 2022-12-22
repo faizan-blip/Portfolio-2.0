@@ -45,6 +45,6 @@ $(document).ready(function(){
         strings: ["Front End Web Devloper"],
         typeSpeed: 100,
         backSpeed: 60,
-        loop: false
+        loop: true
     });
 });

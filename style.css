@@ -111,7 +111,7 @@ section .title::after{
         transform: rotate(360deg);
     }
     100%{
-        transform: scale(3);
+        transform: scale(2);
     }
     }
 .navbar .logo a span{
@@ -219,7 +219,7 @@ section .title::after{
 }
 @keyframes main{
     50%{
-        transform: scale(1.5);
+        transform: scale(1.15);
     }
 }
 .home .home-content a{
@@ -283,8 +283,8 @@ section .title::after{
     background: none;
 }
 #fb1{
-    color: rgb(52, 62, 70);
-    box-shadow: -2px -2px 7px  rgb(29, 29, 229) ,2px 2px 7px rgb(29, 29, 229) ;
+    color: rgb(235, 234, 240);
+    background-color: rgb(2, 2, 2);
     padding: 8px;
 position: relative;
 left: 1em;
@@ -296,23 +296,23 @@ top: 3em;
     background-color: blue;
 }
 #insta1{
-    box-shadow: -2px -2px 7px  rgb(220, 11, 188) ,2px 2px 7px rgb(220, 11, 188) ;
+    color: rgb(247, 243, 245);
+    background-color: rgb(2, 2, 2);
     padding: 8px;
     position: relative;
     left: 4em;
-    top: 3em;
-
-    background-color: rgb(255, 252, 252);
+    top: 2.8em;
 }
 #insta1:hover{
     background-color: rgb(220, 11, 188);
 }
 #link1{
-    box-shadow: -2px -2px 7px rgb(9, 196, 229) ,2px 2px 7px rgb(9, 196, 229) ;
+    color: rgb(247, 243, 245);
+    background-color: rgb(2, 2, 2);
     padding: 8px;
     position: relative;
     left: 7em;
-    top: 3em;
+    top: 2.8em;
 }
 #link1:hover{
     background-color:  rgb(9, 196, 229);

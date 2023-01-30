@@ -291,6 +291,7 @@ left: 1em;
 top: 3em;
     text-decoration: none;
     font-size: 15px;
+    border-radius: 10px;
 }
 #fb1:hover{
     background-color: blue;
@@ -302,6 +303,7 @@ top: 3em;
     position: relative;
     left: 4em;
     top: 2.8em;
+    border-radius: 10px;
 }
 #insta1:hover{
     background-color: rgb(220, 11, 188);
@@ -313,9 +315,22 @@ top: 3em;
     position: relative;
     left: 7em;
     top: 2.8em;
+    border-radius: 10px;
+}
+#link2{
+    color: rgb(247, 243, 245);
+    background-color: rgb(2, 2, 2);
+    padding: 8px;
+    position: relative;
+    left: 10em;
+    top: 2.8em;
+    border-radius: 10px;
 }
 #link1:hover{
     background-color:  rgb(9, 196, 229);
+}
+#link2:hover{
+    background-color: rgb(110, 110, 241);
 }
 /* education section styling */
 .education, .teams{

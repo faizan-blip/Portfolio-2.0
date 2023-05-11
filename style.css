@@ -442,16 +442,16 @@ top: 3em;
     width: 80%;
 }
 .skills-content .right .js::before{
-    width: 70%;
+    width: 90%;
 }
 .skills-content .right .React-Js::before{
-    width: 70%;
+    width: 90%;
 }
 .skills-content .right .C::before{
     width: 70%;
 }
 .skills-content .right .Canva::before{
-    width: 70%;
+    width: 90%;
 }
 
 /* contact section styling */
